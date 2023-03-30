@@ -36,7 +36,7 @@ na Daleki Wschód. Jednak oko na to wszystko ma także słynny wróg Asteriksa i
 Obeliksa – Juliusz Cezar, który jest żądny nowych zdobyczy i zbiera potężną armię, 
 aby podbić orientalną krainę po drugiej stronie globu.</p>
             </div>
-            <Button name="Więcej"></Button>
+            <Button name="Więcej" linkTo='/movie'></Button>
         </div>
         </div>;
 };

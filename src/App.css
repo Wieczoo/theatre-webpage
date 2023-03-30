@@ -245,3 +245,29 @@ img.movie-icon {
 .movie-poster{
   width: 100%;
 }
+
+.center-login-form {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  width: 240px;
+  text-align: center;
+  margin: auto;
+  padding-top: 80px;
+}
+
+.login-input {
+  border: 1px solid #FFFFFF;
+  border-radius: 8px;
+  font-size: 24px;
+  margin-bottom: 16px;
+  padding: 8px;
+}
+
+.active{
+  background: #F71735;
+  color: #FDFFFC;
+  margin-left: auto;
+  width:140px;
+}
